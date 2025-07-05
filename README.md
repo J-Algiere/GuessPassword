@@ -1,8 +1,8 @@
-Requires getpass_asterisk to install use pip install getpass-asterisk
+Requires getpass_asterisk. To install use pip install getpass-asterisk
 
-To import use from getpass_asterisk.getpass_asterisk import getpass_asterisk
+To import use, from getpass_asterisk.getpass_asterisk import getpass_asterisk
 
-If you dont want the asterisk for just use import getpass
+If you dont want the asterisk just use import getpass
 
 Recommended to use the terminal or command prompt.
 
